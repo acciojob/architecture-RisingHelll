@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+body{
+	background-color: #c7f0e6;
+}
+
+img{
+	height: 100px;
+}
+#bos{
+	height: 150px;
+}
+
+table, td, th{
+	border: 1px solid black;
+}
+
+td{
+	text-align: center;
+	font-size: 13px;
+}
+
+.col{
+	width:200px;
+}
+
+.mid{
+	width:600px;
+}
